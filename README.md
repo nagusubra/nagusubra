@@ -1,25 +1,27 @@
 
 # 👋 About Me
-Hello/Bonjour! I am Subu and I am a 4th-year Electrical engineering student with a Digital Minor at the University of Calgary. 
+Hello/Bonjour!
 
-I am passionate about engineering projects and I would be more than happy to discuss about my projects!
+I am Subu and I’m passionate about tackling meaningful problems and creating impactful solutions. I’m deeply interested in the AI, power, and startup space, where I’m actively exploring and developing ideas that align with my passion for innovation and problem-solving.
+
+Let’s connect! I’d love to chat about my projects and explore potential collaborations.
 
 ## 🚀 Quick bits
 
-🔭 I’m currently working on fun projects for leisure.
+❤️ I love using technology to create value!
 
-🌱 I’m currently learning Azure services and Databricks. I’m currently a 4th year Electrical Engineering student.
+🔭 I’m currently working on ideas that create impactful and meaningful outcomes.
+
+🌱 I’m currently working on Agentic AI, RAG pipelines, Open Source code, Azure services and Databricks.
 
 👀 I’m interested in Data Engineering and Data Science.
 
-🤝 I’m looking to collaborate on projects dealing with Machine Learning and Data Engineering projects. 
-
-❤️ I love using technology to create value!
+🤝 I’m looking to collaborate on projects dealing with Artiificial Engineering and Data Engineering projects. 
 
 ⚡ Fun fact: I have an unused Raspberry Pi camera module. *Hopefully I use it soon :)*
 
 ## 🛠 Skills
-* Tech stack: Python, Scala, SQL, Azure Services, HTML, and, CSS.
+* Tech stack: Python, LangChain, SQL, Azure Services, HTML, and, CSS.
 
 
 ## 🔗 Links
